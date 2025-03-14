@@ -43,6 +43,6 @@ This project aims to analyze Twitter engagement data to gain insights into **use
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SurajRapeti/twitter-data-analysis.git
+   https://github.com/SurajRapeti/twitter-data-analysis.git
 
   
