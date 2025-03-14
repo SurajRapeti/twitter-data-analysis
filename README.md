@@ -39,10 +39,12 @@ This project aims to analyze Twitter engagement data to gain insights into **use
 - **Matplotlib, Seaborn** (Data Visualization)  
 - **TextBlob** (Sentiment Analysis)  
 
-
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
    https://github.com/SurajRapeti/twitter-data-analysis.git
 
-  
+## 📢 Future Improvements
+- Implement topic modeling to identify trending topics.
+- Use machine learning to predict tweet engagement.
+- Analyze user influence based on engagement metrics.  
