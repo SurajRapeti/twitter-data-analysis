@@ -40,7 +40,7 @@ This project aims to analyze Twitter engagement data to gain insights into **use
 - **TextBlob** (Sentiment Analysis)  
 
 ## 🚀 How to Run the Project
-1. Clone this repository:
+- Clone this repository:
    ```bash
    https://github.com/SurajRapeti/twitter-data-analysis.git
 
